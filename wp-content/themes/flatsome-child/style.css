@@ -1,0 +1,16 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+#masthead {
+	background: url(http://localhost/bepnamduong.vn/wp-content/uploads/2023/02/BG-top.jpg);
+}
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
